@@ -1,4 +1,4 @@
-### Hi Rishit here 👋
+### Hi, Rishit here 👋
 
 I like to experiment with different backend technologies using javascript, building small projects and surfing github trending page rather than youtube trending page.
 
