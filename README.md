@@ -13,6 +13,4 @@ Till now I have worked with
 
 [![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=RishitPandey&count_private=true&&hide=prs,issues&theme=dark)](https://github.com/RishitPandey/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishitPandey)](https://github.com/RishitPandey/)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RishitPandey&repo=awesome-config)](https://github.com/RishitPandey/awesome-config)
