@@ -11,6 +11,6 @@ Till now I have worked with
 
 ![alt-text](https://i.imgur.com/WtVOjr6.gif)
 
-[![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=RishitPandey&hide=prs,issues&theme=dark)](https://github.com/RishitPandey/)
+![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=RishitPandey&count_private=true)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RishitPandey&repo=awesome-config&&theme=dark)](https://github.com/RishitPandey/awesome-config)
