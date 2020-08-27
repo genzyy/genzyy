@@ -11,6 +11,10 @@ Till now I have worked with
 
 <img align="center" src="https://i.imgur.com/WtVOjr6.gif">
 
-[![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=RishitPandey&hide=prs,issues&theme=dark&include_all_commits=true)](https://github.com/RishitPandey/)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RishitPandey&repo=awesome-config&&theme=dark)](https://github.com/RishitPandey/awesome-config)
+<a href="https://github.com/RishitPandey">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RishitPandey&hide=prs,issues&theme=dark&include_all_commits=true" />
+</a>
+<a href="https://github.com/RishitPandey/awesome-config">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RishitPandey&repo=awesome-config&&theme=dark" />
+</a>
