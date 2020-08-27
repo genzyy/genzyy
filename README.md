@@ -9,12 +9,17 @@ Till now I have worked with
 - image uploading using cloudinary
 - linux awesomewm using lua language
 
-<img align="center" src="https://i.imgur.com/WtVOjr6.gif">
+<p align="center">
+  <img align="center" src="https://i.imgur.com/WtVOjr6.gif">
+ </p>
 
 
-<a href="https://github.com/RishitPandey">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RishitPandey&hide=prs,issues&theme=dark&include_all_commits=true" />
-</a>
-<a href="https://github.com/RishitPandey/awesome-config">
+</p>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RishitPandey&repo=awesome-config&&theme=dark" />
-</a>
+</p>
+
+<br/>
+I know these numbers are small but keeping these on my profile helps me to work everyday to increase these numbers.
