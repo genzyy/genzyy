@@ -14,12 +14,12 @@ Till now I have worked with
  </p>
 
 
-<p align="center">
+<a align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RishitPandey&hide=prs,issues&theme=dark&include_all_commits=true" />
-</p>
-<p>
+<a>
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RishitPandey&repo=awesome-config&&theme=dark" />
-</p>
+<a>
 
 <br/>
 I know these numbers are small but keeping these on my profile helps me to work everyday to increase these numbers.
