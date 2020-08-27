@@ -9,7 +9,7 @@ Till now I have worked with
 - image uploading using cloudinary
 - linux awesomewm using lua language
 
-<img align="center" src="https://i.imgur.com/WtVOjr6.gif">
+<img align="left" src="https://i.imgur.com/WtVOjr6.gif">
 
 [![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=RishitPandey&hide=prs,issues&theme=dark&include_all_commits=true)](https://github.com/RishitPandey/)
 
