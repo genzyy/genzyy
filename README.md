@@ -15,10 +15,10 @@ Till now I have worked with
 
 
 <a align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RishitPandey&hide=prs,issues&theme=dark&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=genzyy&hide=prs,issues&theme=dark&include_all_commits=true" />
 <a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RishitPandey&repo=awesome-config&&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=genzyy&repo=awesome-config&&theme=dark" />
 <a>
 
 <br/>
