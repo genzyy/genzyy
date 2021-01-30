@@ -20,6 +20,9 @@ Till now I have worked with
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=genzyy&repo=awesome-config&&theme=dark" />
 <a>
+ <a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=genzyy&repo=bspwm-config&&theme=dark" />
+<a>
 
 <br/>
 I know these numbers are small but keeping these on my profile helps me to work everyday to increase these numbers.
