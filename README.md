@@ -1,4 +1,5 @@
 ### Hi, Rishit here 👋
+[Resume](https://resume.io/r/YtPC1xdlT)
 [s](https://raw.githubusercontent.com/innng/innng/master/assets/profile.png)
 I like to experiment with different backend technologies using javascript, building small projects and surfing github trending page rather than youtube trending page.
 
