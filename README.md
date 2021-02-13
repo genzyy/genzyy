@@ -15,6 +15,7 @@ Till now I have worked with
  </p>
 <div align="center">
  <img align="center" src="https://img.shields.io/badge/-resume-pink?style=for-the-badge" />
+ <img align="center" src="https://img.shields.io/badge/-LinkedIn-green?style=for-the-badge" />
 </div>
 
 <a align="center">
