@@ -13,7 +13,9 @@ Till now I have worked with
 <p align="center">
   <img align="center" src="https://i.imgur.com/WtVOjr6.gif">
  </p>
-
+<div align="center">
+ <img align="center" src="https://img.shields.io/badge/-resume-pink?style=for-the-badge" />
+</div>
 
 <a align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=genzyy&hide=prs,issues&theme=dark&include_all_commits=true" />
