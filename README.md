@@ -17,12 +17,9 @@ Till now I have worked with
 <a align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=genzyy&hide=prs,issues&theme=dark&include_all_commits=true" />
 <a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=genzyy&repo=awesome-config&&theme=dark" />
-<a>
- <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=genzyy&repo=bspwm-config&&theme=dark" />
-<a>
+ 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genzyy&" alt="genzyy" /></p>
+ 
   <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=genzyy&repo=anime-cli&&theme=dark" />
 <a>
