@@ -9,9 +9,8 @@
   <a href="https://www.linkedin.com/in/rishit-pandey/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-green?style=for-the-badge" /></a>
   <a href="https://www.npmjs.com/package/@genzyy/anime-cli"><img align="center" src="https://img.shields.io/badge/-NPM-blueviolet?style=for-the-badge" /></a>
 </p>
-<details open>
-  <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=genzyy&show_icons=true&theme=radical&count_private=true">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=genzyy&show_icons=true&theme=radical&count_private=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=genzyy&hide=css,java,html&theme=tokyonight">
-</P>
- </details>
+</p>
