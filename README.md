@@ -11,5 +11,5 @@
 </div>
 </br>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=genzyy&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=genzyy&show_icons=true&theme=radical&count_private=true" />
 </div>
