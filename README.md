@@ -11,6 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=genzyy&show_icons=true&theme=radical&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=genzyy&show_icons=true&theme=radical&count_private=true&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=genzyy&hide=css,java,html&theme=tokyonight">
 </p>
