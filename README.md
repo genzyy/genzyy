@@ -9,16 +9,7 @@
   <a href="https://www.linkedin.com/in/rishit-pandey/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-green?style=for-the-badge" /></a>
   <a href="https://www.npmjs.com/package/@genzyy/anime-cli"><img align="center" src="https://img.shields.io/badge/-NPM-blueviolet?style=for-the-badge" /></a>
 </div>
-
-<a align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=genzyy&hide=prs,issues&theme=dark&include_all_commits=true" />
-<a>
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genzyy&" alt="genzyy" /></p>
- 
-  <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=genzyy&repo=anime-cli&&theme=dark" />
-<a>
-
-<br/>
-I know these numbers are small but keeping these on my profile helps me to work everyday to increase these numbers.
+</br>
+<div align="center">
+  ![genzyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=genzyy&show_icons=true&theme=radical)  
+</div>
