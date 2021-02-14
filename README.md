@@ -1,18 +1,9 @@
 ### Hi, Rishit here 👋
 [Resume](https://resume.io/r/YtPC1xdlT)
 [s](https://raw.githubusercontent.com/innng/innng/master/assets/profile.png)
-I like to experiment with different backend technologies using javascript, building small projects and surfing github trending page rather than youtube trending page.
-
-Till now I have worked with
-- mongodb and firebase as Databases
-- express, socket.io and peerjs
-- jwt authentication
-- image uploading using cloudinary
-- linux awesomewm using lua language
-
-<p align="center">
-  <img align="center" src="https://i.imgur.com/WtVOjr6.gif">
- </p>
+<div align="center">
+  <img src="/assets/github-image.jpg" alt="image" /> 
+</div>
 <div align="center">
  <img align="center" src="https://img.shields.io/badge/-resume-pink?style=for-the-badge" />
  <img align="center" src="https://img.shields.io/badge/-LinkedIn-green?style=for-the-badge" />
