@@ -10,6 +10,5 @@
   <a href="https://www.npmjs.com/package/@genzyy/anime-cli"><img align="center" src="https://img.shields.io/badge/-NPM-blueviolet?style=for-the-badge" /></a>
 </div>
 </br>
-<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=genzyy&show_icons=true&theme=radical&count_private=true" />
-</div>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=genzyy&hide=css,java,html&theme=tokyonight">
