@@ -5,7 +5,7 @@
   <img src="/assets/github-image.jpg" alt="image" /> 
 </div>
 <div align="center">
- <img align="center" src="https://img.shields.io/badge/-resume-pink?style=for-the-badge" />
+  <a href="https://resume.io/r/YtPC1xdlT" target="_blank"><img align="center" src="https://img.shields.io/badge/-resume-pink?style=for-the-badge" /></a>
  <img align="center" src="https://img.shields.io/badge/-LinkedIn-green?style=for-the-badge" />
  <img align="center" src="https://img.shields.io/badge/-NPM-blueviolet?style=for-the-badge" />
 </div>
