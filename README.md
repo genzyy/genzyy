@@ -1,6 +1,4 @@
 ### Hi, Rishit here 👋
-[Resume](https://resume.io/r/YtPC1xdlT)
-[s](https://raw.githubusercontent.com/innng/innng/master/assets/profile.png)
 <div align="center">
   <img src="/assets/github-image.jpg" alt="image" /> 
 </div>
