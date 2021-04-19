@@ -10,7 +10,11 @@
   <a><img align="center" src="https://img.shields.io/badge/-RUST%20%26%20TS%20%F0%9F%93%97-critical?style=for-the-badge" /></a>
 </p>
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=genzyy&show_icons=true&theme=radical&count_private=true&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=genzyy&hide=css,java,html&theme=radical">
+</p>
+<p align=center>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgenzyy%2Fgenzyy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=true"/></a>  
 </p>
