@@ -1,12 +1,12 @@
 ## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am [Rishit!](https://portfolio-genzyy.vercel.app/)
 
-<a href="https://www.linkedin.com/in/kunal-kushwaha/" target="_blank">
+<a href="https://www.linkedin.com/in/rishit-pandey/" target="_blank">
     <img align="left" width="36px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
 </a>
-<a href="https://twitter.com/kunalstwt" target="_blank">
+<a href="https://twitter.com/" target="_blank">
     <img align="left" width="36px" src="https://img.icons8.com/dusk/48/000000/twitter--v1.png"/>
 </a>
-<a href="mailto:kunalkushwaha453@gmail.com" target="_blank">
+<a href="mailto:rishpandey8097@gmail.com" target="_blank">
     <img align="left" width="36px" src="https://img.icons8.com/plasticine/48/000000/gmail-new.png"/>
 </a>
 
