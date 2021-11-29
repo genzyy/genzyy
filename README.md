@@ -45,3 +45,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=genzyy&show_icons=true&theme=radical&count_private=true&line_height=27">
 </p>
+
+
+### Projects that I am working on currently
+
+- [NextJS-guide](https://github.com/genzyy/NextJS-guide)
+- [My Portfolio](https://github.com/genzyy/next-portfolio)
