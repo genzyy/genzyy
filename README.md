@@ -54,6 +54,9 @@
 ### Blog posts 📗
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Setting Up Neovim like VSCode](https://dev.to/rishitpandey/setting-up-neovim-like-vscode-j8h)
 - [My Linux Fish Shell Workflow](https://dev.to/rishitpandey/my-linux-fish-shell-workflow-28lk)
 <!-- BLOG-POST-LIST:END -->
+
+<!--START_SECTION:activity-->
