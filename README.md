@@ -46,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=genzyy&show_icons=true&theme=radical&count_private=true&line_height=27">
 </p>
 
-### Projects that I am working on currently
+### Projects that I am working on currently 🚧
 
 - [NextJS-guide](https://github.com/genzyy/NextJS-guide)
 - [My Portfolio](https://github.com/genzyy/next-portfolio)
@@ -58,5 +58,7 @@
 - [Setting Up Neovim like VSCode](https://dev.to/rishitpandey/setting-up-neovim-like-vscode-j8h)
 - [My Linux Fish Shell Workflow](https://dev.to/rishitpandey/my-linux-fish-shell-workflow-28lk)
 <!-- BLOG-POST-LIST:END -->
+
+### Recent Activity 👀
 
 <!--START_SECTION:activity-->
