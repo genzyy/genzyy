@@ -62,8 +62,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3502](https://github.com/fastify/fastify/issues/3502) in [fastify/fastify](https://github.com/fastify/fastify)
-2. 🗣 Commented on [#409](https://github.com/SigNoz/signoz/issues/409) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+2. 🗣 Commented on [#3502](https://github.com/fastify/fastify/issues/3502) in [fastify/fastify](https://github.com/fastify/fastify)
 3. 🗣 Commented on [#409](https://github.com/SigNoz/signoz/issues/409) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
 4. 🗣 Commented on [#409](https://github.com/SigNoz/signoz/issues/409) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
-5. ❗️ Opened issue [#50](https://github.com/cba85/electron-webview/issues/50) in [cba85/electron-webview](https://github.com/cba85/electron-webview)
+5. 🗣 Commented on [#409](https://github.com/SigNoz/signoz/issues/409) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
 <!--END_SECTION:activity-->
