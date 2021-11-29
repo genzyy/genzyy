@@ -54,7 +54,6 @@
 ### Blog posts 📗
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Setting Up Neovim like VSCode](https://dev.to/rishitpandey/setting-up-neovim-like-vscode-j8h)
 - [My Linux Fish Shell Workflow](https://dev.to/rishitpandey/my-linux-fish-shell-workflow-28lk)
 <!-- BLOG-POST-LIST:END -->
@@ -62,3 +61,9 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#409](https://github.com/SigNoz/signoz/issues/409) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+2. 🗣 Commented on [#409](https://github.com/SigNoz/signoz/issues/409) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+3. 🗣 Commented on [#409](https://github.com/SigNoz/signoz/issues/409) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+4. ❗️ Opened issue [#50](https://github.com/cba85/electron-webview/issues/50) in [cba85/electron-webview](https://github.com/cba85/electron-webview)
+5. 💪 Opened PR [#3470](https://github.com/fastify/fastify/pull/3470) in [fastify/fastify](https://github.com/fastify/fastify)
+<!--END_SECTION:activity-->
