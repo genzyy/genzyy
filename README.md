@@ -62,8 +62,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#426](https://github.com/SigNoz/signoz/issues/426) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
-2. 💪 Opened PR [#426](https://github.com/SigNoz/signoz/pull/426) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
-3. 🗣 Commented on [#3506](https://github.com/fastify/fastify/issues/3506) in [fastify/fastify](https://github.com/fastify/fastify)
-4. 💪 Opened PR [#3506](https://github.com/fastify/fastify/pull/3506) in [fastify/fastify](https://github.com/fastify/fastify)
-5. 🗣 Commented on [#3502](https://github.com/fastify/fastify/issues/3502) in [fastify/fastify](https://github.com/fastify/fastify)
+2. 🗣 Commented on [#426](https://github.com/SigNoz/signoz/issues/426) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+3. 🗣 Commented on [#426](https://github.com/SigNoz/signoz/issues/426) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+4. 💪 Opened PR [#426](https://github.com/SigNoz/signoz/pull/426) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+5. 🗣 Commented on [#3506](https://github.com/fastify/fastify/issues/3506) in [fastify/fastify](https://github.com/fastify/fastify)
 <!--END_SECTION:activity-->
