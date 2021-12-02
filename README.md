@@ -50,6 +50,7 @@
 
 - [NextJS-guide](https://github.com/genzyy/NextJS-guide)
 - [My Portfolio](https://github.com/genzyy/next-portfolio)
+- Reading electron docs
 
 ### Blog posts 📗
 
