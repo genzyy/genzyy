@@ -38,14 +38,6 @@
 
  <br />
 
-### Currently Doing 🤔
-
-- Hmm...
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=genzyy&show_icons=true&theme=radical&count_private=true&line_height=27">
-</p>
-
 ### Projects that I am working on currently 🚧
 
 - [NextJS-guide](https://github.com/genzyy/NextJS-guide)
@@ -68,3 +60,8 @@
 4. 🎉 Merged PR [#2](https://github.com/genzyy/electron-webview/pull/2) in [genzyy/electron-webview](https://github.com/genzyy/electron-webview)
 5. 🗣 Commented on [#2](https://github.com/genzyy/electron-webview/issues/2) in [genzyy/electron-webview](https://github.com/genzyy/electron-webview)
 <!--END_SECTION:activity-->
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=genzyy&show_icons=true&theme=radical&count_private=true&line_height=27">
+</p>
