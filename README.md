@@ -54,11 +54,11 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3506](https://github.com/fastify/fastify/issues/3506) in [fastify/fastify](https://github.com/fastify/fastify)
-2. 🎉 Merged PR [#1](https://github.com/genzyy/electron-webview/pull/1) in [genzyy/electron-webview](https://github.com/genzyy/electron-webview)
-3. 🗣 Commented on [#1](https://github.com/genzyy/electron-webview/issues/1) in [genzyy/electron-webview](https://github.com/genzyy/electron-webview)
-4. 🎉 Merged PR [#2](https://github.com/genzyy/electron-webview/pull/2) in [genzyy/electron-webview](https://github.com/genzyy/electron-webview)
-5. 🗣 Commented on [#2](https://github.com/genzyy/electron-webview/issues/2) in [genzyy/electron-webview](https://github.com/genzyy/electron-webview)
+1. 🗣 Commented on [#426](https://github.com/SigNoz/signoz/issues/426) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+2. 🗣 Commented on [#426](https://github.com/SigNoz/signoz/issues/426) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+3. 🗣 Commented on [#3506](https://github.com/fastify/fastify/issues/3506) in [fastify/fastify](https://github.com/fastify/fastify)
+4. 🎉 Merged PR [#1](https://github.com/genzyy/electron-webview/pull/1) in [genzyy/electron-webview](https://github.com/genzyy/electron-webview)
+5. 🗣 Commented on [#1](https://github.com/genzyy/electron-webview/issues/1) in [genzyy/electron-webview](https://github.com/genzyy/electron-webview)
 <!--END_SECTION:activity-->
 <br />
 
