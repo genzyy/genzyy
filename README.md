@@ -54,11 +54,11 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#446](https://github.com/SigNoz/signoz/issues/446) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
-2. ❗️ Opened issue [#446](https://github.com/SigNoz/signoz/issues/446) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
-3. 🗣 Commented on [#426](https://github.com/SigNoz/signoz/issues/426) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+1. 🗣 Commented on [#4224](https://github.com/supabase/supabase/issues/4224) in [supabase/supabase](https://github.com/supabase/supabase)
+2. 🗣 Commented on [#446](https://github.com/SigNoz/signoz/issues/446) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+3. ❗️ Opened issue [#446](https://github.com/SigNoz/signoz/issues/446) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
 4. 🗣 Commented on [#426](https://github.com/SigNoz/signoz/issues/426) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
-5. 🗣 Commented on [#3506](https://github.com/fastify/fastify/issues/3506) in [fastify/fastify](https://github.com/fastify/fastify)
+5. 🗣 Commented on [#426](https://github.com/SigNoz/signoz/issues/426) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
 <!--END_SECTION:activity-->
 <br />
 
