@@ -54,11 +54,11 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/genzyy/fastify/pull/1) in [genzyy/fastify](https://github.com/genzyy/fastify)
-2. 🗣 Commented on [#3506](https://github.com/fastify/fastify/issues/3506) in [fastify/fastify](https://github.com/fastify/fastify)
-3. 🗣 Commented on [#62](https://github.com/commclassroom/commclassroomBackend/issues/62) in [commclassroom/commclassroomBackend](https://github.com/commclassroom/commclassroomBackend)
-4. 🗣 Commented on [#3506](https://github.com/fastify/fastify/issues/3506) in [fastify/fastify](https://github.com/fastify/fastify)
-5. 🗣 Commented on [#4224](https://github.com/supabase/supabase/issues/4224) in [supabase/supabase](https://github.com/supabase/supabase)
+1. 💪 Opened PR [#455](https://github.com/SigNoz/signoz/pull/455) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+2. 💪 Opened PR [#1](https://github.com/genzyy/fastify/pull/1) in [genzyy/fastify](https://github.com/genzyy/fastify)
+3. 🗣 Commented on [#3506](https://github.com/fastify/fastify/issues/3506) in [fastify/fastify](https://github.com/fastify/fastify)
+4. 🗣 Commented on [#62](https://github.com/commclassroom/commclassroomBackend/issues/62) in [commclassroom/commclassroomBackend](https://github.com/commclassroom/commclassroomBackend)
+5. 🗣 Commented on [#3506](https://github.com/fastify/fastify/issues/3506) in [fastify/fastify](https://github.com/fastify/fastify)
 <!--END_SECTION:activity-->
 <br />
 
