@@ -54,11 +54,11 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30044](https://github.com/mui-org/material-ui/pull/30044) in [mui-org/material-ui](https://github.com/mui-org/material-ui)
-2. 🗣 Commented on [#30019](https://github.com/mui-org/material-ui/issues/30019) in [mui-org/material-ui](https://github.com/mui-org/material-ui)
-3. 💪 Opened PR [#455](https://github.com/SigNoz/signoz/pull/455) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
-4. 💪 Opened PR [#1](https://github.com/genzyy/fastify/pull/1) in [genzyy/fastify](https://github.com/genzyy/fastify)
-5. 🗣 Commented on [#3506](https://github.com/fastify/fastify/issues/3506) in [fastify/fastify](https://github.com/fastify/fastify)
+1. 🎉 Merged PR [#3](https://github.com/genzyy/electron-webview/pull/3) in [genzyy/electron-webview](https://github.com/genzyy/electron-webview)
+2. 💪 Opened PR [#30044](https://github.com/mui-org/material-ui/pull/30044) in [mui-org/material-ui](https://github.com/mui-org/material-ui)
+3. 🗣 Commented on [#30019](https://github.com/mui-org/material-ui/issues/30019) in [mui-org/material-ui](https://github.com/mui-org/material-ui)
+4. 💪 Opened PR [#455](https://github.com/SigNoz/signoz/pull/455) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+5. 💪 Opened PR [#1](https://github.com/genzyy/fastify/pull/1) in [genzyy/fastify](https://github.com/genzyy/fastify)
 <!--END_SECTION:activity-->
 <br />
 
