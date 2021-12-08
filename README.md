@@ -54,11 +54,11 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#54](https://github.com/cba85/electron-webview/issues/54) in [cba85/electron-webview](https://github.com/cba85/electron-webview)
-2. 🗣 Commented on [#615](https://github.com/martpie/museeks/issues/615) in [martpie/museeks](https://github.com/martpie/museeks)
-3. 🗣 Commented on [#9918](https://github.com/chartjs/Chart.js/issues/9918) in [chartjs/Chart.js](https://github.com/chartjs/Chart.js)
-4. ❌ Closed PR [#1](https://github.com/genzyy/fastify/pull/1) in [genzyy/fastify](https://github.com/genzyy/fastify)
-5. 🎉 Merged PR [#3](https://github.com/genzyy/electron-webview/pull/3) in [genzyy/electron-webview](https://github.com/genzyy/electron-webview)
+1. 🎉 Merged PR [#14](https://github.com/genzyy/anime-cli/pull/14) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
+2. 💪 Opened PR [#14](https://github.com/genzyy/anime-cli/pull/14) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
+3. ❗️ Opened issue [#54](https://github.com/cba85/electron-webview/issues/54) in [cba85/electron-webview](https://github.com/cba85/electron-webview)
+4. 🗣 Commented on [#615](https://github.com/martpie/museeks/issues/615) in [martpie/museeks](https://github.com/martpie/museeks)
+5. 🗣 Commented on [#9918](https://github.com/chartjs/Chart.js/issues/9918) in [chartjs/Chart.js](https://github.com/chartjs/Chart.js)
 <!--END_SECTION:activity-->
 <br />
 
