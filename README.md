@@ -54,11 +54,11 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/genzyy/anime-cli/pull/14) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
-2. 💪 Opened PR [#14](https://github.com/genzyy/anime-cli/pull/14) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
-3. ❗️ Opened issue [#54](https://github.com/cba85/electron-webview/issues/54) in [cba85/electron-webview](https://github.com/cba85/electron-webview)
-4. 🗣 Commented on [#615](https://github.com/martpie/museeks/issues/615) in [martpie/museeks](https://github.com/martpie/museeks)
-5. 🗣 Commented on [#9918](https://github.com/chartjs/Chart.js/issues/9918) in [chartjs/Chart.js](https://github.com/chartjs/Chart.js)
+1. 🗣 Commented on [#487](https://github.com/SigNoz/signoz/issues/487) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+2. 🎉 Merged PR [#14](https://github.com/genzyy/anime-cli/pull/14) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
+3. 💪 Opened PR [#14](https://github.com/genzyy/anime-cli/pull/14) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
+4. ❗️ Opened issue [#54](https://github.com/cba85/electron-webview/issues/54) in [cba85/electron-webview](https://github.com/cba85/electron-webview)
+5. 🗣 Commented on [#615](https://github.com/martpie/museeks/issues/615) in [martpie/museeks](https://github.com/martpie/museeks)
 <!--END_SECTION:activity-->
 <br />
 
