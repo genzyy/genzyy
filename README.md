@@ -54,11 +54,11 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/genzyy/anime-cli/pull/15) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
-2. 💪 Opened PR [#15](https://github.com/genzyy/anime-cli/pull/15) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
-3. 🗣 Commented on [#487](https://github.com/SigNoz/signoz/issues/487) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
-4. 🎉 Merged PR [#14](https://github.com/genzyy/anime-cli/pull/14) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
-5. 💪 Opened PR [#14](https://github.com/genzyy/anime-cli/pull/14) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
+1. 🎉 Merged PR [#16](https://github.com/genzyy/anime-cli/pull/16) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
+2. 💪 Opened PR [#16](https://github.com/genzyy/anime-cli/pull/16) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
+3. 🎉 Merged PR [#15](https://github.com/genzyy/anime-cli/pull/15) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
+4. 💪 Opened PR [#15](https://github.com/genzyy/anime-cli/pull/15) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
+5. 🗣 Commented on [#487](https://github.com/SigNoz/signoz/issues/487) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
 <!--END_SECTION:activity-->
 <br />
 
