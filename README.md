@@ -55,10 +55,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
-2. ❗️ Opened issue [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
-3. 🎉 Merged PR [#4](https://github.com/genzyy/electron-webview/pull/4) in [genzyy/electron-webview](https://github.com/genzyy/electron-webview)
-4. 🎉 Merged PR [#17](https://github.com/genzyy/anime-cli/pull/17) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
-5. 💪 Opened PR [#17](https://github.com/genzyy/anime-cli/pull/17) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
+2. 🗣 Commented on [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
+3. 🗣 Commented on [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
+4. ❗️ Opened issue [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
+5. 🎉 Merged PR [#4](https://github.com/genzyy/electron-webview/pull/4) in [genzyy/electron-webview](https://github.com/genzyy/electron-webview)
 <!--END_SECTION:activity-->
 <br />
 
