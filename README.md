@@ -54,11 +54,11 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
+1. ❗️ Closed issue [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
 2. 🗣 Commented on [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
 3. 🗣 Commented on [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
-4. ❗️ Opened issue [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
-5. 🎉 Merged PR [#4](https://github.com/genzyy/electron-webview/pull/4) in [genzyy/electron-webview](https://github.com/genzyy/electron-webview)
+4. 🗣 Commented on [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
+5. 🗣 Commented on [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
 <!--END_SECTION:activity-->
 <br />
 
