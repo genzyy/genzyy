@@ -54,8 +54,8 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
-2. 🗣 Commented on [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
+1. 🗣 Commented on [#5052](https://github.com/microsoft/vscode-docs/issues/5052) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
+2. ❗️ Closed issue [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
 3. 🗣 Commented on [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
 4. 🗣 Commented on [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
 5. 🗣 Commented on [#4](https://github.com/bakkeby/dusk/issues/4) in [bakkeby/dusk](https://github.com/bakkeby/dusk)
