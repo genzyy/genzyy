@@ -54,11 +54,11 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#548](https://github.com/SigNoz/signoz/issues/548) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
-2. 🗣 Commented on [#553](https://github.com/SigNoz/signoz/issues/553) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
-3. 🗣 Commented on [#5](https://github.com/genzyy/electron-webview/issues/5) in [genzyy/electron-webview](https://github.com/genzyy/electron-webview)
-4. 🗣 Commented on [#54](https://github.com/cba85/electron-webview/issues/54) in [cba85/electron-webview](https://github.com/cba85/electron-webview)
-5. ❗️ Closed issue [#6](https://github.com/genzyy/electron-webview/issues/6) in [genzyy/electron-webview](https://github.com/genzyy/electron-webview)
+1. 🗣 Commented on [#8581](https://github.com/backstage/backstage/issues/8581) in [backstage/backstage](https://github.com/backstage/backstage)
+2. 🗣 Commented on [#548](https://github.com/SigNoz/signoz/issues/548) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+3. 🗣 Commented on [#553](https://github.com/SigNoz/signoz/issues/553) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+4. 🗣 Commented on [#5](https://github.com/genzyy/electron-webview/issues/5) in [genzyy/electron-webview](https://github.com/genzyy/electron-webview)
+5. 🗣 Commented on [#54](https://github.com/cba85/electron-webview/issues/54) in [cba85/electron-webview](https://github.com/cba85/electron-webview)
 <!--END_SECTION:activity-->
 <br />
 
