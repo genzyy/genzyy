@@ -54,11 +54,11 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/pixxel8/voidwm/pull/1) in [pixxel8/voidwm](https://github.com/pixxel8/voidwm)
-2. 🗣 Commented on [#106](https://github.com/commclassroom/classroom-monitor-bot/issues/106) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
-3. 💪 Opened PR [#148](https://github.com/commclassroom/classroom-monitor-bot/pull/148) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
-4. ❗️ Opened issue [#147](https://github.com/commclassroom/classroom-monitor-bot/issues/147) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
-5. 🗣 Commented on [#8581](https://github.com/backstage/backstage/issues/8581) in [backstage/backstage](https://github.com/backstage/backstage)
+1. 🗣 Commented on [#149](https://github.com/commclassroom/classroom-monitor-bot/issues/149) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
+2. 💪 Opened PR [#149](https://github.com/commclassroom/classroom-monitor-bot/pull/149) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
+3. 🗣 Commented on [#106](https://github.com/commclassroom/classroom-monitor-bot/issues/106) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
+4. 🗣 Commented on [#1](https://github.com/pixxel8/voidwm/issues/1) in [pixxel8/voidwm](https://github.com/pixxel8/voidwm)
+5. 💪 Opened PR [#1](https://github.com/pixxel8/voidwm/pull/1) in [pixxel8/voidwm](https://github.com/pixxel8/voidwm)
 <!--END_SECTION:activity-->
 <br />
 
