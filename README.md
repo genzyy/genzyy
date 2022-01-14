@@ -54,11 +54,11 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/commclassroom/classroom-monitor-bot/issues/156) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
+1. 🗣 Commented on [#409](https://github.com/SigNoz/signoz/issues/409) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
 2. 🗣 Commented on [#156](https://github.com/commclassroom/classroom-monitor-bot/issues/156) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
-3. 💪 Opened PR [#156](https://github.com/commclassroom/classroom-monitor-bot/pull/156) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
-4. ❗️ Opened issue [#155](https://github.com/commclassroom/classroom-monitor-bot/issues/155) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
-5. 🗣 Commented on [#8581](https://github.com/backstage/backstage/issues/8581) in [backstage/backstage](https://github.com/backstage/backstage)
+3. 🗣 Commented on [#156](https://github.com/commclassroom/classroom-monitor-bot/issues/156) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
+4. 💪 Opened PR [#156](https://github.com/commclassroom/classroom-monitor-bot/pull/156) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
+5. ❗️ Opened issue [#155](https://github.com/commclassroom/classroom-monitor-bot/issues/155) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
 <!--END_SECTION:activity-->
 <br />
 
