@@ -43,6 +43,7 @@
 - [NextJS-guide](https://github.com/genzyy/NextJS-guide)
 - [My Portfolio](https://github.com/genzyy/next-portfolio)
 - Learning system languages.
+- Reading about macOS.
 
 ### Blog posts 📗
 
