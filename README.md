@@ -44,6 +44,7 @@
 - [My Portfolio](https://github.com/genzyy/next-portfolio)
 - Learning system languages.
 - Reading about macOS.
+- Making my own very basic kernel.
 
 ### Blog posts 📗
 
