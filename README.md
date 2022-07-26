@@ -3,14 +3,12 @@
 <a href="https://www.linkedin.com/in/rishit-pandey/" target="_blank">
     <img align="left" width="36px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
 </a>
-<a href="https://twitter.com/" target="_blank">
-    <img align="left" width="36px" src="https://img.icons8.com/dusk/48/000000/twitter--v1.png"/>
-</a>
+
 <a href="mailto:rishpandey8097@gmail.com" target="_blank">
     <img align="left" width="36px" src="https://img.icons8.com/plasticine/48/000000/gmail-new.png"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1ja347SFkuFI__R__BXGoCRE21DHlsRh2/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1gcZOWU8g_0M-DlK_z2o5_Ir_HrgmCzaG/view?usp=sharing" target="_blank">
     <img align="left" width="36px" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101.png"/>
 </a>
 
