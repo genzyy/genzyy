@@ -54,7 +54,7 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/commclassroom/classroom-monitor-bot/issues/138) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
+1. 💪 Opened PR [#41](https://github.com/shaunsingh/nyoom.nvim/pull/41) in [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim)
 2. 🗣 Commented on [#150](https://github.com/commclassroom/classroom-monitor-bot/issues/150) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
 3. 🗣 Commented on [#150](https://github.com/commclassroom/classroom-monitor-bot/issues/150) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
 4. 💪 Opened PR [#2249](https://github.com/redux-saga/redux-saga/pull/2249) in [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga)
