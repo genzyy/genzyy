@@ -54,10 +54,10 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/genzyy/anime-cli/pull/18) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
-2. 🗣 Commented on [#18](https://github.com/genzyy/anime-cli/issues/18) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
-3. 🗣 Commented on [#18](https://github.com/genzyy/anime-cli/issues/18) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
-4. 🗣 Commented on [#41](https://github.com/shaunsingh/nyoom.nvim/issues/41) in [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim)
+1. 🎉 Merged PR [#20](https://github.com/genzyy/anime-cli/pull/20) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
+2. 💪 Opened PR [#20](https://github.com/genzyy/anime-cli/pull/20) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
+3. 🎉 Merged PR [#19](https://github.com/genzyy/anime-cli/pull/19) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
+4. 💪 Opened PR [#19](https://github.com/genzyy/anime-cli/pull/19) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
 5. 💪 Opened PR [#41](https://github.com/shaunsingh/nyoom.nvim/pull/41) in [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim)
 <!--END_SECTION:activity-->
 <br />
