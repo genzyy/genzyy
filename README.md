@@ -54,11 +54,11 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/genzyy/nvim/pull/1) in [genzyy/nvim](https://github.com/genzyy/nvim)
-2. 💪 Opened PR [#1](https://github.com/genzyy/nvim/pull/1) in [genzyy/nvim](https://github.com/genzyy/nvim)
-3. 🎉 Merged PR [#20](https://github.com/genzyy/anime-cli/pull/20) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
-4. 💪 Opened PR [#20](https://github.com/genzyy/anime-cli/pull/20) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
-5. 🎉 Merged PR [#19](https://github.com/genzyy/anime-cli/pull/19) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
+1. 🎉 Merged PR [#1](https://github.com/genzyy/eupg-vscode-support/pull/1) in [genzyy/eupg-vscode-support](https://github.com/genzyy/eupg-vscode-support)
+2. 💪 Opened PR [#1](https://github.com/genzyy/eupg-vscode-support/pull/1) in [genzyy/eupg-vscode-support](https://github.com/genzyy/eupg-vscode-support)
+3. 🎉 Merged PR [#1](https://github.com/genzyy/nvim/pull/1) in [genzyy/nvim](https://github.com/genzyy/nvim)
+4. 💪 Opened PR [#1](https://github.com/genzyy/nvim/pull/1) in [genzyy/nvim](https://github.com/genzyy/nvim)
+5. 🎉 Merged PR [#20](https://github.com/genzyy/anime-cli/pull/20) in [genzyy/anime-cli](https://github.com/genzyy/anime-cli)
 <!--END_SECTION:activity-->
 <br />
 
