@@ -24,10 +24,10 @@
 
 - [NextJS-guide](https://github.com/genzyy/NextJS-guide)
 - [My Portfolio](https://github.com/genzyy/next-portfolio)
+- [Making my own very basic kernel](https://github.com/genzyy/rust_os)
 - Learning Databases
 - Learning system languages
 - Reading about macOS
-- [Making my own very basic kernel](https://github.com/genzyy/rust_os)
 
 ### Blog posts 📗
 
