@@ -16,33 +16,18 @@
 
 ### About Me 🚀
 
-🎓 I am an open-source software enthusiast & an undergraduate in CS. <br />
-💻 I have worked with ReactJS, ExpressJS and some nosql databases like MongoDB, Firebase, etc. <br />
-🕹️ I am passionate about Java Backend Development, Cloud Computing, Kubernetes and Docker, Linux. <br />
-
-### Experience ⚙️
-
-- [Scoutt-Tech](https://scoutt.tech/):
-
-  - #### Full Stack Developer
-    - My responsibility was to create Rest API from scratch using NodeJS, ExpressJS and MongoDB.
-    - It also included a Frontend App with ReactJS while managing user sessions with Redis and content rendering based on user role.
-
-- [Caarsy](https://caarsy.com/):
-  - #### Software Developer
-    - My tasks were creating Rest API from scratch using NodeJS, ExpressJS and MongoDB.
-    - I also created a Frontend Dashboard App with ReactJS.
-    - The app was aimed at Second Hand Vehicle Dealerships to solve their business issues.
-
- <br />
+🎓 Open-source software enthusiast & an undergraduate in CS. <br />
+💻 Worked with ReactJS, ExpressJS and some nosql databases like MongoDB, Firebase, etc. <br />
+🕹️ Passionate about Backend Development, DevOps, Linux. <br />
 
 ### Projects that I am working on currently 🚧
 
 - [NextJS-guide](https://github.com/genzyy/NextJS-guide)
 - [My Portfolio](https://github.com/genzyy/next-portfolio)
-- Learning system languages.
-- Reading about macOS.
-- Making my own very basic kernel.
+- Learning Databases
+- Learning system languages
+- Reading about macOS
+- [Making my own very basic kernel](https://github.com/genzyy/rust_os)
 
 ### Blog posts 📗
 
