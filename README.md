@@ -39,7 +39,7 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/genzyy/eupg-vscode-support/pull/1) in [genzyy/eupg-vscode-support](https://github.com/genzyy/eupg-vscode-support)
+1. 💪 Opened PR [#1](https://github.com/genzyy/Express-Prisma-Boilerplate/pull/1) in [genzyy/Express-Prisma-Boilerplate](https://github.com/genzyy/Express-Prisma-Boilerplate)
 2. 💪 Opened PR [#1](https://github.com/genzyy/eupg-vscode-support/pull/1) in [genzyy/eupg-vscode-support](https://github.com/genzyy/eupg-vscode-support)
 3. 🎉 Merged PR [#1](https://github.com/genzyy/nvim/pull/1) in [genzyy/nvim](https://github.com/genzyy/nvim)
 4. 💪 Opened PR [#1](https://github.com/genzyy/nvim/pull/1) in [genzyy/nvim](https://github.com/genzyy/nvim)
