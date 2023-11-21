@@ -39,11 +39,11 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/genzyy/Express-Prisma-Boilerplate/pull/10) in [genzyy/Express-Prisma-Boilerplate](https://github.com/genzyy/Express-Prisma-Boilerplate)
-2. 🎉 Merged PR [#9](https://github.com/genzyy/Express-Prisma-Boilerplate/pull/9) in [genzyy/Express-Prisma-Boilerplate](https://github.com/genzyy/Express-Prisma-Boilerplate)
-3. 💪 Opened PR [#9](https://github.com/genzyy/Express-Prisma-Boilerplate/pull/9) in [genzyy/Express-Prisma-Boilerplate](https://github.com/genzyy/Express-Prisma-Boilerplate)
-4. 🎉 Merged PR [#8](https://github.com/genzyy/Express-Prisma-Boilerplate/pull/8) in [genzyy/Express-Prisma-Boilerplate](https://github.com/genzyy/Express-Prisma-Boilerplate)
-5. 💪 Opened PR [#8](https://github.com/genzyy/Express-Prisma-Boilerplate/pull/8) in [genzyy/Express-Prisma-Boilerplate](https://github.com/genzyy/Express-Prisma-Boilerplate)
+1. 🎉 Merged PR [#10](https://github.com/genzyy/Express-Prisma-Boilerplate/pull/10) in [genzyy/Express-Prisma-Boilerplate](https://github.com/genzyy/Express-Prisma-Boilerplate)
+2. 💪 Opened PR [#10](https://github.com/genzyy/Express-Prisma-Boilerplate/pull/10) in [genzyy/Express-Prisma-Boilerplate](https://github.com/genzyy/Express-Prisma-Boilerplate)
+3. 🎉 Merged PR [#9](https://github.com/genzyy/Express-Prisma-Boilerplate/pull/9) in [genzyy/Express-Prisma-Boilerplate](https://github.com/genzyy/Express-Prisma-Boilerplate)
+4. 💪 Opened PR [#9](https://github.com/genzyy/Express-Prisma-Boilerplate/pull/9) in [genzyy/Express-Prisma-Boilerplate](https://github.com/genzyy/Express-Prisma-Boilerplate)
+5. 🎉 Merged PR [#8](https://github.com/genzyy/Express-Prisma-Boilerplate/pull/8) in [genzyy/Express-Prisma-Boilerplate](https://github.com/genzyy/Express-Prisma-Boilerplate)
 <!--END_SECTION:activity-->
 <br />
 
