@@ -39,11 +39,11 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/genzyy/weaver.nvim/issues/2) in [genzyy/weaver.nvim](https://github.com/genzyy/weaver.nvim)
-2. 💪 Opened PR [#1](https://github.com/genzyy/weaver.nvim/pull/1) in [genzyy/weaver.nvim](https://github.com/genzyy/weaver.nvim)
-3. 💪 Opened PR [#11](https://github.com/genzyy/Express-Prisma-Boilerplate/pull/11) in [genzyy/Express-Prisma-Boilerplate](https://github.com/genzyy/Express-Prisma-Boilerplate)
-4. 🎉 Merged PR [#10](https://github.com/genzyy/Express-Prisma-Boilerplate/pull/10) in [genzyy/Express-Prisma-Boilerplate](https://github.com/genzyy/Express-Prisma-Boilerplate)
-5. 💪 Opened PR [#10](https://github.com/genzyy/Express-Prisma-Boilerplate/pull/10) in [genzyy/Express-Prisma-Boilerplate](https://github.com/genzyy/Express-Prisma-Boilerplate)
+1. 🔒 Closed issue [#2](https://github.com/genzyy/weaver.nvim/issues/2) in [genzyy/weaver.nvim](https://github.com/genzyy/weaver.nvim)
+2. 🎉 Merged PR [#1](https://github.com/genzyy/weaver.nvim/pull/1) in [genzyy/weaver.nvim](https://github.com/genzyy/weaver.nvim)
+3. ❗ Opened issue [#2](https://github.com/genzyy/weaver.nvim/issues/2) in [genzyy/weaver.nvim](https://github.com/genzyy/weaver.nvim)
+4. 💪 Opened PR [#1](https://github.com/genzyy/weaver.nvim/pull/1) in [genzyy/weaver.nvim](https://github.com/genzyy/weaver.nvim)
+5. 💪 Opened PR [#11](https://github.com/genzyy/Express-Prisma-Boilerplate/pull/11) in [genzyy/Express-Prisma-Boilerplate](https://github.com/genzyy/Express-Prisma-Boilerplate)
 <!--END_SECTION:activity-->
 <br />
 
