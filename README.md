@@ -39,11 +39,11 @@
 ### Recent Activity 👀
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/genzyy/hasten.nvim/pull/3) in [genzyy/hasten.nvim](https://github.com/genzyy/hasten.nvim)
-2. 💪 Opened PR [#3](https://github.com/genzyy/hasten.nvim/pull/3) in [genzyy/hasten.nvim](https://github.com/genzyy/hasten.nvim)
-3. 🎉 Merged PR [#2](https://github.com/genzyy/hasten.nvim/pull/2) in [genzyy/hasten.nvim](https://github.com/genzyy/hasten.nvim)
-4. 💪 Opened PR [#2](https://github.com/genzyy/hasten.nvim/pull/2) in [genzyy/hasten.nvim](https://github.com/genzyy/hasten.nvim)
-5. 🚀 Published release [v1.0.0](https://github.com/genzyy/hasten.nvim/releases/tag/v1.0.0) in [genzyy/hasten.nvim](https://github.com/genzyy/hasten.nvim)
+1. 💪 Opened PR [#4](https://github.com/genzyy/hasten.nvim/pull/4) in [genzyy/hasten.nvim](https://github.com/genzyy/hasten.nvim)
+2. ❌ Closed PR [#3](https://github.com/genzyy/hasten.nvim/pull/3) in [genzyy/hasten.nvim](https://github.com/genzyy/hasten.nvim)
+3. 💪 Opened PR [#3](https://github.com/genzyy/hasten.nvim/pull/3) in [genzyy/hasten.nvim](https://github.com/genzyy/hasten.nvim)
+4. 🎉 Merged PR [#2](https://github.com/genzyy/hasten.nvim/pull/2) in [genzyy/hasten.nvim](https://github.com/genzyy/hasten.nvim)
+5. 💪 Opened PR [#2](https://github.com/genzyy/hasten.nvim/pull/2) in [genzyy/hasten.nvim](https://github.com/genzyy/hasten.nvim)
 <!--END_SECTION:activity-->
 <br />
 
