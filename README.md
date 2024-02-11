@@ -42,3 +42,7 @@ Currently building OSS split keyboards.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=genzyy&show_icons=true&theme=radical&count_private=true&line_height=27">
 </p>
+
+<div align=center>
+<img src="https://komarev.com/ghpvc/?username=genzyy&color=ff69b4&style=for-the-badge&label=visits" size="1" />
+</div>
