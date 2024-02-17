@@ -31,11 +31,11 @@ Currently building OSS split keyboards.
 ### Recent Activities 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/genzyy/embark-lua.nvim/pull/2) in [genzyy/embark-lua.nvim](https://github.com/genzyy/embark-lua.nvim)
-2. 🎉 Merged PR [#1](https://github.com/genzyy/embark-lua.nvim/pull/1) in [genzyy/embark-lua.nvim](https://github.com/genzyy/embark-lua.nvim)
-3. 💪 Opened PR [#1](https://github.com/genzyy/embark-lua.nvim/pull/1) in [genzyy/embark-lua.nvim](https://github.com/genzyy/embark-lua.nvim)
-4. 💪 Opened PR [#4](https://github.com/genzyy/hasten.nvim/pull/4) in [genzyy/hasten.nvim](https://github.com/genzyy/hasten.nvim)
-5. ❌ Closed PR [#3](https://github.com/genzyy/hasten.nvim/pull/3) in [genzyy/hasten.nvim](https://github.com/genzyy/hasten.nvim)
+1. 🎉 Merged PR [#2](https://github.com/genzyy/embark-lua.nvim/pull/2) in [genzyy/embark-lua.nvim](https://github.com/genzyy/embark-lua.nvim)
+2. 💪 Opened PR [#2](https://github.com/genzyy/embark-lua.nvim/pull/2) in [genzyy/embark-lua.nvim](https://github.com/genzyy/embark-lua.nvim)
+3. 🎉 Merged PR [#1](https://github.com/genzyy/embark-lua.nvim/pull/1) in [genzyy/embark-lua.nvim](https://github.com/genzyy/embark-lua.nvim)
+4. 💪 Opened PR [#1](https://github.com/genzyy/embark-lua.nvim/pull/1) in [genzyy/embark-lua.nvim](https://github.com/genzyy/embark-lua.nvim)
+5. 💪 Opened PR [#4](https://github.com/genzyy/hasten.nvim/pull/4) in [genzyy/hasten.nvim](https://github.com/genzyy/hasten.nvim)
 <!--END_SECTION:activity-->
 <br />
 
